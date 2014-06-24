@@ -1,0 +1,6 @@
+[user]
+	name = Nathan G. Romano
+	email = nathan.g.romano@gmail.com
+[filter "media"]
+	clean = git-media-clean %f
+	smudge = git-media-smudge %f
